@@ -1,3 +1,3 @@
 mod constants;
 #[cfg(feature = "server")]
-mod server_ops;
+pub mod server_ops;
