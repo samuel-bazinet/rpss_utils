@@ -1,1 +1,1 @@
-pub const ADD_SUBSCRIPTION_ID: &[u8] = &[0;4];
+pub const ADD_SUBSCRIPTION_ID: &[u8] = &[0;8];
